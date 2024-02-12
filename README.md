@@ -6,6 +6,7 @@ I am currently in retraining and i also have network skills.
 ## Languages:
 
 <img height="64" alt="HTML" src="https://icones.pro/wp-content/uploads/2021/05/icone-html-bleue.png">
+<img height="64" alt="HTML" src="https://icones.pro/wp-content/uploads/2022/08/icone-css-jaune.png">
 <img height="64" alt="CSS" src="https://icones.pro/wp-content/uploads/2022/08/icone-css-jaune.png">
 
 ## Tools:
