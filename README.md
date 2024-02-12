@@ -3,6 +3,9 @@
 Ahmet IT Student at OC as a web integrator developer.
 I am currently in retraining and i also have network skills.
 
+## Social:
+<a href="https://github.com/uroahmet"><img src="https://img.shields.io/badge/-@uroahmet-%23181717?style=flat-square&logo=github" height="25"></a>
+
 ## Languages:
 
 <img height="64" alt="HTML" src="https://icones.pro/wp-content/uploads/2021/05/icone-html-bleue.png">
