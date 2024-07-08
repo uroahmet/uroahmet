@@ -23,6 +23,11 @@ I am currently in retraining and i also have network skills.
 
 ## My Projects:
 
+### Openclassrooms
+
+You can find in my repo a quantity of projects done
+during my studies as Web Integrator mainly based on HTML, CSS, JS and React
+
 ### Creation of Ansible script
 
 Script preparation for MYSQL / MARIADB, F2B, Apache Server & Nginx.
@@ -36,3 +41,7 @@ Installing/configuring server.
 - Works with all of version for Ubuntu / Debian.
 
 Ansible 2.7.1
+
+### Monitoring Nagios
+
+Installation and configuration of Nagios for Linux servers.
